@@ -1,0 +1,29 @@
+{
+  "name": "terminal-text-width",
+  "version": "0.1.0",
+  "description": "Get the number of columns occupied by specified text in terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someus/terminal-text-width.git"
+  },
+  "keywords": [
+    "terminal",
+    "char",
+    "text",
+    "width"
+  ],
+  "author": "Letian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someus/terminal-text-width/issues"
+  },
+  "homepage": "https://github.com/someus/terminal-text-width#readme"
+}
